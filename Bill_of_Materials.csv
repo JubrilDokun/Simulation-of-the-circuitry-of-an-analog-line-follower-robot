@@ -1,0 +1,12 @@
+﻿Name,Quantity,Component
+"BAT1",1," 9V Battery"
+"U1",1," 5V Regulator [LM7805]"
+"U2",1," H-bridge Motor Driver"
+"U3",1," Dual comparator"
+"R_current-limiting[Photodiode] 2, R_current-limiting[Photodiode] 1",2,"100 kΩ Resistor"
+"Rpot2, Rpot3",2,"10 kΩ Potentiometer"
+"M1, M2",2," Hobby Gearmotor"
+"D2, D1",2,"Red LED"
+"U4, U6",2," Photodiode"
+"R_current-limiting[LED] 2, R_current-limiting[LED] 1",2,"220 kΩ Resistor"
+"R_Pull-up 1, R_Pull-up 2",2,"1 kΩ Resistor"
